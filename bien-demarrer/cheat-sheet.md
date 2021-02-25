@@ -75,3 +75,6 @@ Voici une liste des raccourcis clavier utiles pour GNOME.
 | `Alt` + `Prnt Scrn`            | Prend une capture d'une fenêtre          |
 | `Shift` + `Prnt Scrn`          | Prend la capture d'une zone dans l'écran |
 | `Ctrl` + `Alt` + `Shift` + `R` | Débute/Arrête l'enregistrement vidéo     |
+
+#### Modification
+Il y a encore plus de raccourcis existants, et vous pouvez créer les votres dans les paramètres de GNOME (`gnome-control-center`).
