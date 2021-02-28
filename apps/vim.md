@@ -7,7 +7,7 @@ Vim est un éditeur de texte de terminal. C'est une version étendue de vi avec 
 ## Installation
 Installez l'un des deux paquets suivants :
 - `vim` - Avec le support des interpréteurs Python 2/3, Lua, Ruby et Perl mais sans le support de GTK/X.
-- `gvim` Apporte la même chose que le paquet `vim` mais avec le support GTK/X.
+- `gnome-vim` Apporte la même chose que le paquet `vim` mais avec le support GTK/X.
 
 ## Usage
 Pour un aperçu de base sur la façon d'utiliser Vim, suivez le tutoriel vim en exécutant soit *vimtutor* (pour la version terminal) soit *gvimtutor* (pour la version graphique).
