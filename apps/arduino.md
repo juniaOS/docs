@@ -81,7 +81,7 @@ Il s'agit dans cette partie de montrer comment compiler avec avr-gcc et comment 
 [[apt://avr-gcc | avr-libc | avrdude | binutils-avr]]
 
 #### Compilation
-**avr-gcc** s'utilise presque comme gcc, en spécifiant le microcontrolleur de la carte.\\
+**avr-gcc** s'utilise presque comme gcc (voir page GCC), en spécifiant le microcontrolleur de la carte.\\
 Par exemple pour une carte Arduino UNO, avec un avr atmega328p, on a :
 <code> avr-gcc -mmcu=atmega328p -o main.elf main.c </code>
 <note tip> La liste des micro-controlleurs supportés est spécifiée dans le [[:man|manuel]] d'avr-gcc :
